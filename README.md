@@ -31,7 +31,7 @@ Options:
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/AIDENAZAD/instabrute.git
+git clone https://github.com/v7lthronyxprojects/instabrute.git
 cd instabrute
 
 # Install dependencies
@@ -97,7 +97,7 @@ Options:
 ## نصب
 ```bash
 # کلون کردن مخزن
-git clone https://github.com/AIDENAZAD/instabrute.git
+git clone https://github.com/v7lthronyxprojects/instabrute.git
 cd instabrute
 
 # نصب وابستگی‌ها
